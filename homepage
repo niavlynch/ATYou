@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="atyoustyle.css">
+<meta charset= "utf-8">
+<title>ATU U</title>
+</head>
+
+
+<body>
+<nav id = navbar>
+<ul>
+ <li id = "logo" <a href = "#">Home</a></li>
+ <li class = "bluebord">
+  <a href = "gettingstarted.html">Getting<br>started</a>
+   <ul class = "dropdown bluedrop" >
+	<li><a href = "registration.html">Registration</a></li>
+	<li><a href = "feesinfo.html">Fees info</a></li>
+	<li><a href = "leapcard.html">Leap Card</a></li>
+   </ul>
+ </li>
+ <li class = "pinkbord">
+  <a href = "studentresources.html">Student<br>Resources</a>
+   <ul class = "dropdown pinkdrop">
+	<li><a href = "studentunion.html">Student Union</a></li>
+	<li><a href = "healthunit.html">Health Unit</a></li>
+	<li><a href = "mentalhealth.html">Mental Health</a></li>
+	<li><a href = "academicsupports.html">Academic Supports</a></li>
+   </ul>
+ </li>
+ <li class = "greenbord">
+  <a href = "campuslife.html">Campus<br>Life</a>
+   <ul class = "dropdown greendrop">
+	<li><a href = "campusmap.html">Campus Map</a></li>
+	<li><a href = "canteen+kitchenette.html">Canteen + Kitchenette</a></li>
+	<li><a href = "nightlife.html">Night Life</a></li>
+   </ul>
+ </li>
+ <li class = "yellowbord">
+  <a href = "transport.html"><br>Transport</a>
+   <ul class = "dropdown yellowdrop">
+	<li><a href = "buses.html">Buses</a></li>
+	<li><a href = "cycling.html">Cycling</a></li>
+	<li><a href = "driving.html">Driving</a></li>
+	<li><a href = "walking.html">Walking</a></li>
+   </ul>
+ </li>
+ <li class = "bluebord">
+  <a href = "news+events.html">News<br>and events</a>
+   <ul class = "dropdown bluedrop">
+	<li><a href = "campusnews.html">Campus News</a></li>
+	<li><a href = "calendar.html">Calendar</a></li>
+   </ul>
+ </li>
+ <li class = "pinkbord">
+  <a href = "studentblog.html">Student<br>Blog</a>
+ </li>
+ <li class = "greenbord">
+  <a href = "faq.html"><br>FAQ</a>
+ </li>
+ <li class = "yellowbord">
+ <a href = "contact.html"><br>Contact</a>
+ </li>
+ </ul>
+ </nav>
+ 
+ <section class="hero-image">
+ <div class="hero-title">
+ <h1>Welcome New Students!</h1>
+ </div>
+ <div class="hero-text">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	</section>
+</div>
+<section>
+</section>
+
+<div class="footer">
+<div class="footer-text">
+  <h2>Contact Us</h2>
+  <p>Email: atyou@atu.ie <br>Tel: (085)999 8888</p>
+  </div>
+</div>
+</body>
+</html>
+
